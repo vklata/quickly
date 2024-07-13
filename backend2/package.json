@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "concurrently \"command1 arg\" \"command2 arg\""
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
